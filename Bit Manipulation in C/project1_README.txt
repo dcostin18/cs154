@@ -1,0 +1,1 @@
+This project involved solving a series of bit manipulation puzzles in C. 
